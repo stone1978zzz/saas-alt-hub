@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   keywords: ["SaaS alternatives", "open-source software", "free software", "self-hosted", "Notion alternative", "Zapier alternative", "Airtable alternative"],
   authors: [{ name: "OpenAlt Team" }],
   verification: {
-    google: "71BvRYPxQPrplzeLDo111ATovmBhh2fQ9Y0WY6heA7Q",
+    google: "XzcpR-WWr1z43NW-LxNpGI0BXvMqK84dj32Azb4tfcc",
   },
   openGraph: {
     title: "OpenAlt Hub - The Free & Open-Source SaaS Directory",
