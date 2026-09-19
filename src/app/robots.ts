@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://openalt.dev/sitemap.xml",
+    sitemap: "https://saas-alt-hub.vercel.app/sitemap.xml",
   };
 }

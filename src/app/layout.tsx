@@ -11,10 +11,13 @@ export const metadata: Metadata = {
   description: "Stop overpaying for software. Discover curated, privacy-first, free, and open-source alternatives to Notion, Zapier, Airtable, Datadog, Slack, and more.",
   keywords: ["SaaS alternatives", "open-source software", "free software", "self-hosted", "Notion alternative", "Zapier alternative", "Airtable alternative"],
   authors: [{ name: "OpenAlt Team" }],
+  verification: {
+    google: "71BvRYPxQPrplzeLDo111ATovmBhh2fQ9Y0WY6heA7Q",
+  },
   openGraph: {
     title: "OpenAlt Hub - The Free & Open-Source SaaS Directory",
     description: "Discover curated, battle-tested open-source alternatives to popular subscription software.",
-    url: "https://openalt.dev",
+    url: "https://saas-alt-hub.vercel.app",
     siteName: "OpenAlt Hub",
     type: "website",
   },

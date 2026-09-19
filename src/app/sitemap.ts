@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { SAAS_DATABASE } from "@/data/saas-data";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://openalt.dev";
+  const baseUrl = "https://saas-alt-hub.vercel.app";
 
   const staticPages: MetadataRoute.Sitemap = [
     {
